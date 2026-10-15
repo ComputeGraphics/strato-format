@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zV4j1eDc9U=",
+  "success": true,
+  "projectFilePath": "/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/Strato-Format.csproj",
+  "expectedPackageFiles": [
+    "/home/foxxd/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/foxxd/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.30/microsoft.netcore.app.host.linux-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\bin\Release\net8.0-windows\Strato-Format.exe
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\bin\Release\net8.0-windows\Strato-Format.deps.json
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\bin\Release\net8.0-windows\Strato-Format.runtimeconfig.json
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\bin\Release\net8.0-windows\Strato-Format.dll
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\bin\Release\net8.0-windows\Strato-Format.pdb
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.dll
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\refint\Strato-Format.dll
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.pdb
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\Strato-Format.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\Strato-Format\Strato-Format\obj\Release\net8.0-windows\ref\Strato-Format.dll

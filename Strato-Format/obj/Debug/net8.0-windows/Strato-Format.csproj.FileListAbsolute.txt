@@ -1,0 +1,14 @@
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/bin/Debug/net8.0-windows/Strato-Format
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/bin/Debug/net8.0-windows/Strato-Format.deps.json
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/bin/Debug/net8.0-windows/Strato-Format.runtimeconfig.json
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/bin/Debug/net8.0-windows/Strato-Format.dll
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/bin/Debug/net8.0-windows/Strato-Format.pdb
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.AssemblyInfoInputs.cache
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.AssemblyInfo.cs
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.csproj.CoreCompileInputs.cache
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.dll
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/refint/Strato-Format.dll
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.pdb
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/Strato-Format.genruntimeconfig.cache
+/mnt/Volume/Arthur/Schule/Strato-Ballon/Repos/Strato-Format/Strato-Format/obj/Debug/net8.0-windows/ref/Strato-Format.dll
